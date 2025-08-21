@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+main{
+    padding: 20px;
+    background-color: brown;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#presentacion{
+    width: 60%;
+    background-color: bisque;
+}
+
+#proyectos{
+    width: 30%;
+    background-color: aqua;
+}
