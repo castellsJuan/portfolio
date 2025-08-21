@@ -21,6 +21,10 @@ header{
     border-width: 4px;
 }
 
+nav{
+    margin-right: 40px;
+}
+
 img{
     width: 50px;
     height: 50px;
